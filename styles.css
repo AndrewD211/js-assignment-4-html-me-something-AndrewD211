@@ -3,8 +3,18 @@
     color:red;
 }
 
+#subHeading {
+    color: limegreen;
+    text-decoration: underline;
+    
+}
+
 .funParagraph {
     color:green; 
+}
+
+.imageCaption {
+    color:green
 }
 
 body{
